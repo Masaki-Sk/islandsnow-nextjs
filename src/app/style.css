@@ -1,0 +1,9 @@
+.footer {
+    background-color: #292929;
+    color: white;
+}
+
+.footer_col {
+    list-style-type: none;
+    padding-left: 0px;
+}
